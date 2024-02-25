@@ -8,7 +8,7 @@ from streamlit_option_menu import option_menu
 
 
 
-heart_disease_model = pickle.dump(open('c:/Users/vamshi/Desktop/major project/heart_2.py',"rb"))
+heart_disease_model = pickle.dump(open('heart_2.py',"rb"))
 
 
 
